@@ -32,6 +32,9 @@
 
 ##### 22- Como adicionar Reviewers em seu repositório:> Em Open Pull Request vá em reviewers e aperte a engrenagem, logo após insira o nome deles que deseja adicionar.
 
+
+##### git cmerge 
+
 ##### git branch -d nome_da_branch -> deleta a branch
 
 ##### No pull request é uma solicitação de atualização...
