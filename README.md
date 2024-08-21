@@ -31,4 +31,10 @@
 ##### 21- Como fazer um Pull-Request? > Abrir a janela "Pull Request", aperta-la, selecionar uma branch e criar um Pull Request, adicionar uma descrição e apertar novamente em Pull Request, depois merge pull-request
 
 ##### 22- Como adicionar Reviewers em seu repositório:> Em Open Pull Request vá em reviewers e aperte a engrenagem, logo após insira o nome deles que deseja adicionar.
+
+##### git branch -d nome_da_branch -> deleta a branch
+
+##### No pull request é uma solicitação de atualização...
+
+##### não funciona 
 ![]()
