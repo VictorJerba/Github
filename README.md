@@ -12,6 +12,8 @@
 ##### stash aply > Este comando pega o stash mais alto na pilha e o aplica ao repositório stash@{0}
 ##### 
 ##### git -a v1.0 -m "Versão 1.0" -> cria uma tag para marar o próximo commit 
+##### git checkout nome_da_branch -> para mudar a branch
+##### git checkout -b nome_da_branch -> para criar uma branch
 
 
 ## Perguntas
@@ -26,6 +28,7 @@
 ##### 18- Como inserir apenas um commit de uma branch para a main? > git cherry-pick "hashdocommit"
 ##### 19- Resete seu código até algum momento utilizando como parâmetro o hash da commit: > it reset --hard "hashdocommit"
 ##### 20- Crie um arquivo tipo txt e guarde em sua stash: > git add "arquivo.txt" e depois git stash
-##### 21- Como fazer um Pull-Request? > git push origin "nomedabranch"
-##### 22- Como adicionar Reviewers em seu repositório:> não sei
+##### 21- Como fazer um Pull-Request? > Abrir a janela "Pull Request", aperta-la, selecionar uma branch e criar um Pull Request, adicionar uma descrição e apertar novamente em Pull Request, depois merge pull-request
+
+##### 22- Como adicionar Reviewers em seu repositório:> Em Open Pull Request vá em reviewers e aperte a engrenagem, logo após insira o nome deles que deseja adicionar.
 ![]()
